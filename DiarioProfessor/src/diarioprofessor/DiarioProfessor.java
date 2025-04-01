@@ -1,6 +1,4 @@
-
 package diarioprofessor;
-import java.util.Scanner;
 
 import diarioprofessor.model.Diario;
 
